@@ -12,8 +12,8 @@ This repository contains a Discord bot script that allows users to declare their
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    https://github.com/CiscoDerm/FIVE_M_ABSENCE.git
+    cd FIVE_M_ABSENCE
     ```
 
 2. **Install dependencies**:
